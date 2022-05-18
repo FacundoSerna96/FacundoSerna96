@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Facundo Serna</h1>
 
-<h3 align="center">A full-stack developer from Argentina</h3>
+<h3 align="center">A passionate full-stack developer from Argentina</h3>
 
 &nbsp;
 
@@ -81,7 +81,9 @@
 
 
 <h3 align="center">Connect with me on
-<a href="https://linkedin.com/in/facundoserna" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-       alt="facundoserna" height="30" width="40" /></a>
 </h3> 
+<p align="center">
+  <a href="https://linkedin.com/in/rishavanand" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+</p>
