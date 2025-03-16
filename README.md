@@ -87,7 +87,7 @@
 <h3 align="center">Connect with me on
 </h3> 
 <p align="center">
-  <a href="https://linkedin.com/in/rishavanand" target="_blank">
+  <a href="https://www.linkedin.com/in/facundoserna/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </p>
