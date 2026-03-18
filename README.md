@@ -94,10 +94,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="langchain" width="40" height="40"/>
   </a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="openai" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/openai/000000" alt="openai" width="40" height="40"/>
   </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" alt="huggingface" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="huggingface" width="40" height="40"/>
   </a>
 </p>
 
@@ -117,4 +117,3 @@
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
 </p>
-
